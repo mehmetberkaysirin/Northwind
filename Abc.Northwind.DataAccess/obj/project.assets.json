@@ -729,11 +729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
       "projectName": "Abc.Northwind.DataAccess",
-      "projectPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
+      "projectPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
       "packagesPath": "C:\\Users\\shabaros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -752,11 +752,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
-              "projectPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj"
+            "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
+              "projectPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Core\\Abc.Core.csproj"
             },
-            "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj": {
-              "projectPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj"
+            "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj": {
+              "projectPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj"
             }
           }
         }

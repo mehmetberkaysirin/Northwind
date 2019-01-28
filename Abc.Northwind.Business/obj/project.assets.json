@@ -749,11 +749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.Business\\Abc.Northwind.Business.csproj",
+      "projectUniqueName": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.Business\\Abc.Northwind.Business.csproj",
       "projectName": "Abc.Northwind.Business",
-      "projectPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.Business\\Abc.Northwind.Business.csproj",
+      "projectPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.Business\\Abc.Northwind.Business.csproj",
       "packagesPath": "C:\\Users\\shabaros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.Business\\obj\\",
+      "outputPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -772,14 +772,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
-              "projectPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj"
+            "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
+              "projectPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Core\\Abc.Core.csproj"
             },
-            "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj"
+            "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj"
             },
-            "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj": {
-              "projectPath": "C:\\Users\\shabaros\\source\\repos\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj"
+            "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj": {
+              "projectPath": "C:\\Users\\shabaros\\Source\\Repos\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj"
             }
           }
         }
