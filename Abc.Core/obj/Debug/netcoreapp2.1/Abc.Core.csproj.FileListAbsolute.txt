@@ -1,0 +1,12 @@
+C:\Users\shabaros\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp2.1\Abc.Core.deps.json
+C:\Users\shabaros\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp2.1\Abc.Core.dll
+C:\Users\shabaros\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.csprojAssemblyReference.cache
+C:\Users\shabaros\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.csproj.CoreCompileInputs.cache
+C:\Users\shabaros\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.AssemblyInfoInputs.cache
+C:\Users\shabaros\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.AssemblyInfo.cs
+C:\Users\shabaros\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp2.1\Abc.Core.pdb
+C:\Users\shabaros\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.dll
+C:\Users\shabaros\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.pdb
+C:\Users\shabaros\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shabaros\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\shabaros\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.csproj.CopyComplete

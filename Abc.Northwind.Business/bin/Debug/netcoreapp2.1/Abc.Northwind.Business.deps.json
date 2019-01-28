@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Abc.Northwind.Business/1.0.0": {
+        "dependencies": {
+          "Abc.Core": "1.0.0",
+          "Abc.Northwind.DataAccess": "1.0.0",
+          "Abc.Northwind.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Abc.Northwind.Business.dll": {}
+        }
+      },
+      "Abc.Core/1.0.0": {
+        "runtime": {
+          "Abc.Core.dll": {}
+        }
+      },
+      "Abc.Northwind.DataAccess/1.0.0": {
+        "dependencies": {
+          "Abc.Core": "1.0.0",
+          "Abc.Northwind.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Abc.Northwind.DataAccess.dll": {}
+        }
+      },
+      "Abc.Northwind.Entities/1.0.0": {
+        "dependencies": {
+          "Abc.Core": "1.0.0"
+        },
+        "runtime": {
+          "Abc.Northwind.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abc.Northwind.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abc.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abc.Northwind.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abc.Northwind.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
